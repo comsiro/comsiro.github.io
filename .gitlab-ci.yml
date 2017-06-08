@@ -1,6 +1,0 @@
-pages:
-  image: jekyll/jekyll
-  script: jekyll build -d public/
-  artifacts:
-    paths:
-      - public/
