@@ -18,7 +18,7 @@ categories: tech
 
 <a href="https://github.com/">Github</a>에 접속해 계정을 만들고 <a href="https://github.com/new">새로운 프로젝트</a>를 생성합니다. 이때 프로젝트 이름(Repository name)은 <span class="highlight">[나의 깃헙 아이디].github.io</span>로 합니다.
 
-![새 프로젝트 생성]({{ site.url }}/assets/Github1.jpg)
+![새 프로젝트 생성]({{ site.baseurl }}/assets/Github1.jpg)
 
 <hr><br>
 
@@ -38,7 +38,7 @@ git push -u origin master
 
 연동이 완료되었습니다. 브라우저 창에 주소를 입력하면 나의 블로그가 보입니다.
 
-![내 블로그]({{ site.url }}/assets/Github2.jpg)
+![내 블로그]({{ site.baseurl }}/assets/Github2.jpg)
 
 다음 장에서는 Jekyll을 더 잘 활용하기 위해 필요한 기술들에 대해 적어보겠습니다. 선택 사항이지만 웹 개발에 관심이 있는 분들은 그냥 지나치지 말고 읽고 지나가면 도움이 될 것 같습니다.
 
