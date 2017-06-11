@@ -18,6 +18,12 @@ minima:
 #header_pages:
 # - about.html
 
+# Google services
+google_analytics: UA-80294273-2
+
+disqus:
+  shortname: comsiro
+
 # Build settings
 markdown: kramdown
 theme: minima

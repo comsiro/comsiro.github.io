@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  간단한 Jekyll 설치 및 사용(3)
 date:   2017-06-11 04:32:12 +1200
 categories: tech

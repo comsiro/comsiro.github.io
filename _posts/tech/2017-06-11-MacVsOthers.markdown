@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  왜 개발자는 다른 노트북보다 Mac을 선택해야 하나?
 date:   2017-06-11 06:42:00 +1200
 categories: tech

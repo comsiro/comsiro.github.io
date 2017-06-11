@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  뉴질랜드는 기온은 따뜻한데 집은 춥습니다.
 date:   2017-06-06 13:01:12 +1200
 categories: nzlife

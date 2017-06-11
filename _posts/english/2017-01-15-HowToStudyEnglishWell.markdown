@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  영어 잘하고 싶다?
 date:   2017-01-15 11:02:12 +1200
 categories: english_study

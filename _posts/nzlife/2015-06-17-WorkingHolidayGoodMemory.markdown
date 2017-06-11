@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  워킹홀리데이 - 내겐 참 좋은 기억
 date:   2015-06-17 12:47:12 +1200
 categories: nzlife

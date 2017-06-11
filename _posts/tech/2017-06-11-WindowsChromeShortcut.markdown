@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  Windows와 Chrome의 단축키
 date:   2017-06-11 05:00:00 +1200
 categories: tech

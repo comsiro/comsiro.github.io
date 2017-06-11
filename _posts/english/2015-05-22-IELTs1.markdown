@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  IELTS 어려운 시험
 date:   2015-05-22 12:47:12 +1200
 categories: english_study
@@ -9,4 +10,4 @@ categories: english_study
 
 토익은 호주 다녀오자마자 시험 준비 몇 주 하고 900점 가까이 맞았습니다. 그런데 IELTS는 차원이 다른 시험입니다. 보통 호주 뉴질랜드 간호사 대학 입학 조건이 7.5, 보통 회사원 요구 점수가 8.5 정도 된다고 합니다.
 
-시험에 대한 자세한 사항은 <a href="https://www.ielts.org/">IETLS 공식 사이트</a>를 참고해 주세요. 
+시험에 대한 자세한 사항은 <a href="https://www.ielts.org/">IETLS 공식 사이트</a>를 참고해 주세요.

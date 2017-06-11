@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  뉴질랜드와 한국의 공과금 차이 그리고 잡설
 date:   2017-02-13 17:48:12 +1200
 categories: nzlife
