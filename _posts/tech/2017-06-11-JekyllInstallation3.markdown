@@ -18,7 +18,7 @@ categories: tech
 
 <a href="https://github.com/">Github</a>에 접속해 계정을 만들고 <a href="https://github.com/new">새로운 프로젝트</a>를 생성합니다. 이때 프로젝트 이름(Repository name)은 <span class="highlight">[나의 깃헙 아이디].github.io</span>로 합니다.
 
-![새 프로젝트 생성]({{ site.github.url }}/assets/images/Github1.jpg)
+![새 프로젝트 생성]({{ site.github.url }}/assets/images/Github1.png)
 
 <hr><br>
 
