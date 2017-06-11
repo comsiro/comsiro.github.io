@@ -16,18 +16,18 @@ categories: tech
 
 <a href="https://www.ruby-lang.org/ko/downloads/">루비 다운로드 페이지</a>에 접속해 루비(Ruby)를 다운 받아 설치합니다. 버전은 현재 안정 버전으로 다운 받는 것이 가장 좋습니다. 자신의 컴퓨터 OS에 맞는 패키지를 다운로드 받아 사이트에 나온 가이드 대로 설치하면 됩니다. Ruby는 하나의 프로그램 언어 입니다. 하지만 Jekyll을 사용하는데 깊게 이해할 필요는 없습니다. Jekyll이 루비로 만들어 졌다는 것만 기억하고 지나가면 됩니다.
 
-![루비 설치 중에 뜨는 화면1]({{ site.github.url }}/assets/images/RubyInstallation1.jpg)
+![루비 설치 중에 뜨는 화면1]({{ site.github.url }}/assets/images/RubyInstallation1.JPG)
 <hr><br>
 
 <h1>2. MSYS2 설치</h1>
 
 위 이미지 처럼 루비 설치를 완료하면 MSYS2를 설치할 것인지 선택하는 옵션이 나옵니다. 체크하고 Finish를 누릅니다. MSYS2는 여러분이 윈도우 커맨드 프롬프트(Window command prompt) 창에서도 루비 명령어를 실행하고 사용할 수 있도록 해 줍니다.(다른 운영체제를 사용하는 분들은 그 환경에 맞는 설치 방법이 루비 공식 사이트에 나와 있습니다.)
 
-![루비 설치 중에 뜨는 화면2]({{ site.github.url }}/assets/images/RubyInstallation2.jpg)
+![루비 설치 중에 뜨는 화면2]({{ site.github.url }}/assets/images/RubyInstallation2.JPG)
 
 위 이미지에서 1 2 3 을 순차적으로 선택해 설치합니다. 설치를 완료하고 커맨드 프롬프트(Command Prompt)를 실행시켜 아래 이미지에 나온 명령어를 실행하여 Gem 버전이 나오면 바르게 설치된 것 입니다.
 
-![루비 설치 중에 뜨는 화면3]({{ site.github.url }}/assets/images/RubyInstallation3.jpg)
+![루비 설치 중에 뜨는 화면3]({{ site.github.url }}/assets/images/RubyInstallation3.JPG)
 
 Gem은 루비를 사용하는데 필요한 라이브러리(Library)를 설치하고 관리하는데 도움을 주는 루비에서 사용하는 툴의 이름입니다. 자세한 내용은 <a href="http://ruby-korea.github.io/rubygems-guides/what-is-a-gem/">RubyGems의 공식 사이트</a>를 참고하세요.
 
