@@ -5,7 +5,7 @@ date:   2017-06-10 05:42:12 +1200
 categories: tech
 ---
 
-<a href="{{ site.url }}/tech/2017/06/10/JekyllInstallation2.html" class="page-change">다음 글</a>
+<a href="{{ site.github.url }}/tech/2017/06/10/JekyllInstallation2.html" class="page-change">다음 글</a>
 
 <h1>- 개요</h1>
 포스트 제목을 "간단한" Jekyll 설치 및 사용이라 적어 놓았는데 사실 개발을 전혀 모르는 사람이 사용하기엔 그리 간단하지는 않습니다. 이 포스트에서는 Jekyll을 사용하기 위해 필요한 사전 지식부터 Jekyll을 사용하므로써 얻어지는 이득, 설치 및 Github 업로드까지 전반적인 사항을 적어보도록 하겠습니다. 이 포스트에서 (선택)이라 표시된 내용은 꼭 읽지 않으셔도 됩니다.
@@ -48,4 +48,4 @@ Jekyll을 설치하고 "원할하게" 사용하기 위해 제가 필요하다 �
 공식 Jekyll 도큐먼트: <a href="https://jekyllrb.com/docs/home/">https://jekyllrb.com/docs/home/</a><br>
 웹 개발자 가이드북: <a href="https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details">https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details</a>
 
-<a href="{{ site.url }}/tech/2017/06/10/JekyllInstallation2.html" class="page-change">다음 글</a>
+<a href="{{ site.github.url }}/tech/2017/06/10/JekyllInstallation2.html" class="page-change">다음 글</a>

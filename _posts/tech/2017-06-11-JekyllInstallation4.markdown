@@ -5,7 +5,7 @@ date:   2017-06-11 05:56:12 +1200
 categories: tech
 ---
 
-<a href="{{ site.url }}/tech/2017/06/11/JekyllInstallation3.html" class="page-change">이전 글</a>
+<a href="{{ site.github.url }}/tech/2017/06/11/JekyllInstallation3.html" class="page-change">이전 글</a>
 
 <h1>- 더 나은 활용을 위해 필요한 기술들(선택)</h1>
 
@@ -81,4 +81,4 @@ gulp.task('serve', function() {
 
 SASS에 대한 자세한 사항은 <a href="http://sass-lang.com/">SASS 공식 페이지</a>에 접속해서 확인하기 바랍니다.
 
-<a href="{{ site.url }}/tech/2017/06/11/JekyllInstallation3.html" class="page-change">이전 글</a>
+<a href="{{ site.github.url }}/tech/2017/06/11/JekyllInstallation3.html" class="page-change">이전 글</a>

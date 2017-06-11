@@ -21,4 +21,4 @@ categories: tech
 
 관련 포스트
 
-<a href="{{ site.url }}/tech/2017/06/11/MacVsOthers.html">왜 개발자는 다른 노트북보다 Mac을 선택해야 하나?</a>
+<a href="{{ site.github.url }}/tech/2017/06/11/MacVsOthers.html">왜 개발자는 다른 노트북보다 Mac을 선택해야 하나?</a>
