@@ -6,7 +6,7 @@ categories: tech
 ---
 
 <a href="{{ site.url }}/tech/2017/06/10/JekyllInstallation2.html" class="page-change">이전 글</a>
-<a href="{{ site.url }}/tech/2017/06/10/JekyllInstallation3.html" class="page-change">다음 글</a>
+<a href="{{ site.url }}/tech/2017/06/11/JekyllInstallation4.html" class="page-change">다음 글</a>
 
 <h1>- Github에 업로드</h1>
 아래 내용은 <a href="https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/">Github 공식 사이트</a>의 내용을 기반으로 작성되었습니다.
@@ -40,7 +40,7 @@ git push -u origin master
 
 ![내 블로그]({{ site.url }}/assets/Github2.jpg)
 
-다음 장에서는 Jekyll을 더 잘 활용하기 위해 필요한 기술들에 대해 적어보겠습니다. 선택 사항이지만 웹 개발에 관심이 있는 분들은 그냥 지나치지 마시고 읽고 지나가시면 도움이 될 것 같습니다.
+다음 장에서는 Jekyll을 더 잘 활용하기 위해 필요한 기술들에 대해 적어보겠습니다. 선택 사항이지만 웹 개발에 관심이 있는 분들은 그냥 지나치지 말고 읽고 지나가면 도움이 될 것 같습니다.
 
 <a href="{{ site.url }}/tech/2017/06/10/JekyllInstallation2.html" class="page-change">이전 글</a>
-<a href="{{ site.url }}/tech/2017/06/10/JekyllInstallation3.html" class="page-change">다음 글</a>
+<a href="{{ site.url }}/tech/2017/06/11/JekyllInstallation4.html" class="page-change">다음 글</a>
