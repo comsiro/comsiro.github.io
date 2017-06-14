@@ -30,12 +30,11 @@ npm의 설치법은 <a href="https://nodejs.org/ko/">nodejs 공식 사이트</a>
 
 {% highlight shell %}
 /* npm을 통해 angular cli을 설치합니다.
-여기서 -g 옵션은 특정 프로젝트에서만이 아니라 어느 위치에서든 실행할 수 있도록 설치하는데 사용하는 파라미터입니다.
---style=scss는 scss를 사용하는 프로젝트를 생성하라는 파라미터입니다. */
-npm install -g @angular/cli --style=scss
+여기서 -g 옵션은 특정 프로젝트에서만이 아니라 어느 위치에서든 실행할 수 있도록 설치하는데 사용하는 파라미터입니다. */
+npm install -g @angular/cli
 
-/* 새로운 프로젝트를 생성합니다. 폴더도 같이 생성되므로 사전에 만들어 놓을 필요 없습니다. */
-ng new [your project name]
+/* 새로운 프로젝트를 생성합니다. --style=scss는 scss를 사용하는 프로젝트를 생성하라는 파라미터입니다. 폴더도 같이 생성되므로 사전에 만들어 놓을 필요 없습니다. */
+ng new [your project name] --style=scss
 
 /* 프로젝트 폴더로 이동합니다. */
 cd [your project name]
