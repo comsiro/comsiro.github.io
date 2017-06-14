@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  Angular CLI에서 SASS 사용하기
+title:  Angular CLI에서 SASS 사용
 date:   2017-06-13 06:10:00 +1200
 categories: tech
 ---
