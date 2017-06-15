@@ -47,18 +47,25 @@ Browser를 통해 localhost:4200에 접속하면 프로젝트가 성공적으로
 
 <h1>- npm을 이용해 bootstrap4 설치</h1>
 
-아래 명령어로 boostrap4를 설치합니다. 여기서 --save-dev는 개발 환경에서 사용하도록 저장하고 설치하라는 파라미터입니다.
+아래 명령어로 boostrap4를 설치합니다. 여기서 --save-dev는 개발 환경에서 사용하도록 저장하고 설치하라는 파라미터입니다. jquery와 tether는 bootstrap 특정 컴포넌트(component)를 사용하기 위해 필요합니다.
 
 {% highlight shell %}
 npm install bootstrap@next --save-dev
+npm install jquery --save-dev
+npm install tether --save-dev
 {% endhighlight %}
 
 .angular-cli.json 파일에 아래 부분에 node bootstrap 모듈을 추가합니다.
 
 {% highlight shell %}
 "styles": [
-    "../node_modules/bootstrap/scss/bootstrap.scss",
-    "styles.scss"
+  "../node_modules/bootstrap/scss/bootstrap.scss",
+  "styles.scss"
+],
+"scripts": [
+  "../node_modules/jquery/dist/jquery.js",
+  "../node_modules/tether/dist/js/tether.js",
+  "../node_modules/bootstrap/dist/js/bootstrap.js"
 ],
 {% endhighlight %}
 
