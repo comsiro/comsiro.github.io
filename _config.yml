@@ -6,6 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   
   글 퍼가기를 원하시면 사전에 새미아빠와 상의하세요.
 
+text_current_post: 해당 카테고리의 최근 글
+
 github_username:  comsiro
 
 # Minima date format

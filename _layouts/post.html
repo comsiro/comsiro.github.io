@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
@@ -7,11 +7,9 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {{ page.date | date: date_format }}
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %} {{ page.date | date: date_format }}
       </time>
-      {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+      {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
   </header>
 
@@ -19,7 +17,19 @@ layout: default
     {{ content }}
   </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
+  <hr>
+  {{ site.text_current_post }}
+  <ul class="post-list-in-post">
+    {% for post-from-list in site.posts limit:30 %}
+      {% if post-from-list.categories == page.categories  %}
+    <li>
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      <span class="post-meta">{{ post-from-list.date | date: date_format }} -</span>
+      <a class=".post-link-in-post" href="{{ post-from-list.url | relative_url }}">{{ post-from-list.title | escape }}</a>
+    </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  {% if site.disqus.shortname %} {% include disqus_comments.html %} {% endif %}
 </article>
