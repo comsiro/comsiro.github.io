@@ -6,6 +6,8 @@ date:   2015-06-17 12:47:12 +1200
 categories: nzlife
 ---
 
+![남섬 사진4]({{ site.url }}/assets/images/SouthIsland4.jpg)
+
 워킹홀리데이 제겐 참 좋은 기억으로 남아 있습니다.
 
 다녀와서 알았지만 단순히 영어공부를 위해서라면 사실 한국에서도 충분했었죠.

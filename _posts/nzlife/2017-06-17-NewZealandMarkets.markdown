@@ -6,6 +6,8 @@ date:   2017-06-18 04:32:12 +1200
 categories: nzlife
 ---
 
+![남섬 사진2]({{ site.url }}/assets/images/SouthIsland3.jpg)
+
 뉴질랜드에도 역시 대형 쇼필몰이 있습니다. 가장 대표적인 것이 웨스트필드(Westfield) 쇼핑몰입니다. 쇼핑몰 안에는 다양한 상점들이 입점하고 있죠. 하지만 한국만큼 다양하지는 않습니다.
 
 주로 식료품을 구입하기 위해 방문하는 대형마트에는 New World, Pak n Save, Countdown이 있습니다. 가격은 지역마다 다르다고 하는데 제가 체감하기론 어느 지역에서나 Pak n Save가 가장 저렴합니다.

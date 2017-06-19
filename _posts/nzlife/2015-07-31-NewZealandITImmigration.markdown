@@ -11,6 +11,8 @@ categories: nzlife
 
 <hr>
 
+![남섬 사진1]({{ site.url }}/assets/images/SouthIsland1.jpg)
+
 -- 들어가며--
 
 뉴질랜드는 취업이 안되면 영주권 받는게 거의 불가능합니다.
