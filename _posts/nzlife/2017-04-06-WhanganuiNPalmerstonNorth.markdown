@@ -6,6 +6,9 @@ date:   2017-04-06 09:50:12 +1200
 categories: nzlife
 ---
 
+<a href="{{ site.github.url }}/nzlife/2017/04/06/HamiltonNTaupo.html" class="page-change">이전 글</a>
+<a href="{{ site.github.url }}/nzlife/2017/06/22/PictonNNelson.html" class="page-change">다음 글</a>
+
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
 <h3>- 왕가누이 -</h3>
@@ -34,3 +37,6 @@ War memorial tower에서 보는 야경은 제법 아름다웠습니다.
 큰 쇼핑몰이 존재하고 아름다운 장미 꽃들이 심어져 있는 Rose garden이 있습니다. 어린이들이 놀기에도 좋게 잘 꾸며져 있습니다.
 
 인구가 8만5천 정도 된다고 하는데 도시가 한산하고 차분한 분위기 입니다. 한국 레스토랑을 한개 본 것 같은데 한국 분들도 많지 않지만 거주하고 계신 것 같습니다.
+
+<a href="{{ site.github.url }}/nzlife/2017/04/06/HamiltonNTaupo.html" class="page-change">이전 글</a>
+<a href="{{ site.github.url }}/nzlife/2017/06/22/PictonNNelson.html" class="page-change">다음 글</a>

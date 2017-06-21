@@ -6,6 +6,9 @@ date:   2017-04-06 09:37:12 +1200
 categories: nzlife
 ---
 
+<a href="{{ site.github.url }}/nzlife/2017/04/06/AucklandNWellington.html" class="page-change">이전 글</a>
+<a href="{{ site.github.url }}/nzlife/2017/04/06/WhanganuiNPalmerstonNorth.html" class="page-change">다음 글</a>
+
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
 <h3>- 해밀턴 -</h3>
@@ -33,3 +36,6 @@ categories: nzlife
 타우포는 사실 도시라기 보다는 중간 기착지 같은 곳 입니다. 북섬 여행을 위해서는 한번은 꼭 거쳐가야 하는 곳 입니다.
 
 자연 경관이 아름답고 왜 그런지 모르지만 기름 값도 저렴하고 여러모로 정이 가는 곳이라 적어봅니다. 대형 마트도 종류별로 다 있습니다. 가까운 곳에 스키장이 있어 스키타러 다니기도 좋겠네요.
+
+<a href="{{ site.github.url }}/nzlife/2017/04/06/AucklandNWellington.html" class="page-change">이전 글</a>
+<a href="{{ site.github.url }}/nzlife/2017/04/06/WhanganuiNPalmerstonNorth.html" class="page-change">다음 글</a>

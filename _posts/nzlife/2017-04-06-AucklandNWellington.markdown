@@ -5,6 +5,7 @@ title:  뉴질랜드 도시편1(오클랜드,웰링턴)
 date:   2017-04-06 03:21:12 +1200
 categories: nzlife
 ---
+<a href="{{ site.github.url }}/nzlife/2017/04/06/HamiltonNTaupo.html" class="page-change">다음 글</a>
 
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
@@ -47,3 +48,5 @@ categories: nzlife
 렌트비가 오클랜드만큼 비쌉니다. 집 값은 상대적으로 저렴하지만 계속 상승하는 추세입니다.
 
 주변에 아름다운 비치들이 있지만 바람이 심해 실제 해수욕을 즐길 수 있는 날은 적습니다. 한국과 직항이 없고 공항 활주로가 짧고 바람이 심해 대형항공기 이착륙에 제한이 있어 어떻게 될지 모르겠습니다.
+
+<a href="{{ site.github.url }}/nzlife/2017/04/06/HamiltonNTaupo.html" class="page-change">다음 글</a>
