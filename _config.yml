@@ -23,6 +23,8 @@ minima:
 # Google services
 google_analytics: UA-80294273-2
 
+google_adsense: true
+
 disqus:
   shortname: comsiro
 
