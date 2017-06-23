@@ -10,7 +10,7 @@ categories: nzlife
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
 <div class="post-head">
-    <h3>- 오클랜드 -</h3>
+    <h3>- 오클랜드(Auckland) -</h3>
     <img src="{{ site.url }}/assets/images/Auckland-Piha1.jpg" alt="Auckland-Piha1"/>
     <p class="image-description">- 오클랜드 피하 비치 -</p>
 </div>
@@ -31,7 +31,7 @@ categories: nzlife
 <hr>
 
 <div class="post-head">
-    <h3>- 웰링턴 -</h3>
+    <h3>- 웰링턴(Wellington) -</h3>
     <img src="{{ site.url }}/assets/images/Wellington1.jpg" alt="Wellington1"/>
     <p class="image-description">- 웰링턴 오리엔탈 배이 -</p>
 </div>
@@ -50,6 +50,6 @@ categories: nzlife
 
 렌트비가 오클랜드만큼 비쌉니다. 집 값은 상대적으로 저렴하지만 계속 상승하는 추세입니다.
 
-주변에 아름다운 비치들이 있지만 바람이 심해 실제 해수욕을 즐길 수 있는 날은 적습니다. 한국과 직항이 없고 공항 활주로가 짧고 바람이 심해 대형항공기 이착륙에 제한이 있어 어떻게 될지 모르겠습니다.
+주변에 아름다운 비치들이 있지만 바람이 심해 실제 해수욕을 즐길 수 있는 날은 적습니다. 한국과 직항이 없고 공항 활주로가 짧고 바람이 심해 대형항공기 이착륙에 제한이 있어 어떻게 될지 모르겠습니다. 2020년에 활주로 확장 공사가 끝난다고 합니다. 그 후에 한국과 직항이 생길지 안생길지 모르겠네요.
 
 <a href="{{ site.github.url }}/nzlife/2017/04/06/HamiltonNTaupo.html" class="page-change">다음 글</a>

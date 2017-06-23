@@ -12,7 +12,7 @@ categories: nzlife
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
 <div class="post-head">
-    <h3>- 왕가누이 -</h3>
+    <h3>- 왕가누이(Whanganui) -</h3>
     <img src="{{ site.url }}/assets/images/Whanganui1.jpg" alt="Whanganui1"/>
     <p class="image-description">- 왕가누이 야경 -</p>
 </div>
@@ -27,7 +27,7 @@ War memorial tower에서 보는 야경은 제법 아름다웠습니다.
 
 <hr>
 <div class="post-head">
-    <h3>- 파마스턴노스 -</h3>
+    <h3>- 파마스턴노스(PalmerstonNorth) -</h3>
     <img src="{{ site.url }}/assets/images/PalmerstonNorth1.jpg" alt="PalmerstonNorth1"/>
     <p class="image-description">- 파마스턴노스 로스가든 -</p>
 </div>

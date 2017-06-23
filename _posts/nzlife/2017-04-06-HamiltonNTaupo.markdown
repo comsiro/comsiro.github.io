@@ -12,7 +12,7 @@ categories: nzlife
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
 <div class="post-head">
-    <h3>- 해밀턴 -</h3>
+    <h3>- 해밀턴(Hamilton) -</h3>
     <img src="{{ site.url }}/assets/images/Hamilton-Hobbiton1.jpg" alt="Hamilton-Hobbiton1"/>
     <p class="image-description">- 해밀턴 호빗 마을 -</p>
 </div>
@@ -30,7 +30,7 @@ categories: nzlife
 도시 자체가 아름답거나 하지는 않습니다만 거주를 전제로 도시를 물색한다면 한번 고려해 볼 만한 도시가 아닐까 합니다.
 <hr>
 <div class="post-head">
-    <h3>- 타우포 -</h3>
+    <h3>- 타우포(Taupo) -</h3>
     <img src="{{ site.url }}/assets/images/Taupo1.jpg" alt="Taupo1"/>
     <p class="image-description">- 타우포 비오는 날 -</p>
 </div>

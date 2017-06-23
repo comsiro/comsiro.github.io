@@ -12,7 +12,7 @@ categories: nzlife
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
 <div class="post-head">
-    <h3>- 픽턴 -</h3>
+    <h3>- 픽턴(Picton) -</h3>
     <img src="{{ site.url }}/assets/images/Picton1.jpg" alt="Picton1"/>
     <p class="image-description">- 픽턴 배타는 곳 -</p>
 </div>
@@ -23,7 +23,7 @@ categories: nzlife
 
 <hr>
 <div class="post-head">
-    <h3>- 넬슨 -</h3>
+    <h3>- 넬슨(Nelson) -</h3>
     <img src="{{ site.url }}/assets/images/Nelson1.jpg" alt="Nelson1"/>
     <p class="image-description">- 넬슨 가는 길에 있는 작은 호수 -</p>
 </div>

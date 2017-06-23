@@ -11,7 +11,7 @@ categories: nzlife
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
 <div class="post-head">
-    <h3>- 그레이마우스 -</h3>
+    <h3>- 그레이마우스(Greymouth) -</h3>
     <img src="{{ site.url }}/assets/images/Greymouth1.jpg" alt="Greymouth1"/>
     <p class="image-description">- 그레이마우스 에어비엔비에서 해 떨어질때 -</p>
 </div>
@@ -25,7 +25,7 @@ categories: nzlife
 <hr>
 
 <div class="post-head">
-    <h3>- 크라이스트처치 -</h3>
+    <h3>- 크라이스트처치(Christchurch) -</h3>
     <img src="{{ site.url }}/assets/images/Christchurch1.jpg" alt="Christchurch1"/>
     <p class="image-description">- 아직 복구 중인 크라이스트처치 -</p>
 </div>
