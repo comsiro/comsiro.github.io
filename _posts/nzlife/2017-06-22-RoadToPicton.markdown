@@ -6,8 +6,10 @@ date:   2017-06-22 05:51:12 +1200
 categories: nzlife
 ---
 
-![픽턴 가는 길 1]({{ site.url }}/assets/images/InterIslander1.jpg)
-<p class="image-description">- 인터아이슬랜더 타는 곳 -</p>
+<div class="post-head">
+    <img src="{{ site.url }}/assets/images/InterIslander1.jpg" alt="Christchurch2"/>
+    <p class="image-description">- 인터아이슬랜더 타는 곳 -</p>
+</div>
 
 뉴질랜드는 큰 두개의 섬으로 이루어진 나라입니다.
 

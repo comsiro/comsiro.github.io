@@ -11,10 +11,11 @@ categories: nzlife
 
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
-<h3>- 해밀턴 -</h3>
-
-![오클랜드 피하 사진1]({{ site.url }}/assets/images/Hamilton-Hobbiton1.jpg)
-<p class="image-description">- 해밀턴 호빗 마을 -</p>
+<div class="post-head">
+    <h3>- 해밀턴 -</h3>
+    <img src="{{ site.url }}/assets/images/Hamilton-Hobbiton1.jpg" alt="Hamilton-Hobbiton1"/>
+    <p class="image-description">- 해밀턴 호빗 마을 -</p>
+</div>
 
 2016년 통계로 뉴질랜드 도시 인구 순위 4위입니다. 그래봐야 23만명 수준입니다만...
 
@@ -28,10 +29,11 @@ categories: nzlife
 
 도시 자체가 아름답거나 하지는 않습니다만 거주를 전제로 도시를 물색한다면 한번 고려해 볼 만한 도시가 아닐까 합니다.
 <hr>
-<h3>- 타우포 -</h3>
-
-![웰링턴 사진1]({{ site.url }}/assets/images/Taupo1.jpg)
-<p class="image-description">- 타우포 비오는 날 -</p>
+<div class="post-head">
+    <h3>- 타우포 -</h3>
+    <img src="{{ site.url }}/assets/images/Taupo1.jpg" alt="Taupo1"/>
+    <p class="image-description">- 타우포 비오는 날 -</p>
+</div>
 
 타우포는 사실 도시라기 보다는 중간 기착지 같은 곳 입니다. 북섬 여행을 위해서는 한번은 꼭 거쳐가야 하는 곳 입니다.
 

@@ -11,10 +11,11 @@ categories: nzlife
 
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
-<h3>- 왕가누이 -</h3>
-
-![오클랜드 피하 사진1]({{ site.url }}/assets/images/Whanganui1.jpg)
-<p class="image-description">- 왕가누이 야경 -</p>
+<div class="post-head">
+    <h3>- 왕가누이 -</h3>
+    <img src="{{ site.url }}/assets/images/Whanganui1.jpg" alt="Whanganui1"/>
+    <p class="image-description">- 왕가누이 야경 -</p>
+</div>
 
 인구 4만의 작은 도시 입니다. 황가누이인지 왕가누이인지 영어도 Wh W 혼용해서 써서 처음엔 다른 도시인줄 알았습니다.
 
@@ -25,10 +26,11 @@ War memorial tower에서 보는 야경은 제법 아름다웠습니다.
 기온은 웰링턴보다 따뜻하고 바람도 상대적으로 적은 편입니다. 다만 습도가 높아 가을에 갔음에도 매우 덥게 느껴졌네요.
 
 <hr>
-<h3>- 파마스턴노스 -</h3>
-
-![웰링턴 사진1]({{ site.url }}/assets/images/PalmerstonNorth1.jpg)
-<p class="image-description">- 파마스턴노스 로스가든 -</p>
+<div class="post-head">
+    <h3>- 파마스턴노스 -</h3>
+    <img src="{{ site.url }}/assets/images/PalmerstonNorth1.jpg" alt="PalmerstonNorth1"/>
+    <p class="image-description">- 파마스턴노스 로스가든 -</p>
+</div>
 
 파마스턴노스는 웰링턴에서 1시간 30분 거리 떨어져 있고 다시 왕가누이와 1시간, 타우포와 3시간 떨어져 있습니다.
 

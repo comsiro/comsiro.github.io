@@ -9,10 +9,11 @@ categories: nzlife
 
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
-<h3>- 오클랜드 -</h3>
-
-![오클랜드 피하 사진1]({{ site.url }}/assets/images/Auckland-Piha1.jpg)
-<p class="image-description">- 오클랜드 피하 비치 -</p>
+<div class="post-head">
+    <h3>- 오클랜드 -</h3>
+    <img src="{{ site.url }}/assets/images/Auckland-Piha1.jpg" alt="Auckland-Piha1"/>
+    <p class="image-description">- 오클랜드 피하 비치 -</p>
+</div>
 
 뉴질랜드에서 가장 큰 도시입니다.
 
@@ -28,10 +29,12 @@ categories: nzlife
 
 주변에 아름다운 비치들이 있고 한국 직항 비행기 노선이 있어 한국과 오가기 편리합니다.
 <hr>
-<h3>- 웰링턴 -</h3>
 
-![웰링턴 사진1]({{ site.url }}/assets/images/Wellington1.jpg)
-<p class="image-description">- 웰링턴 오리엔탈 배이 -</p>
+<div class="post-head">
+    <h3>- 웰링턴 -</h3>
+    <img src="{{ site.url }}/assets/images/Wellington1.jpg" alt="Wellington1"/>
+    <p class="image-description">- 웰링턴 오리엔탈 배이 -</p>
+</div>
 
 뉴질랜드의 수도입니다.
 
