@@ -13,7 +13,7 @@ categories: nzlife
 <div class="post-head">
     <h3>- 퀸스타운(Queenstown) -</h3>
     <img src="{{ site.url }}/assets/images/Quenstown1.jpg" alt="Quenstown1"/>
-    <p class="image-description">- 퀸스타운 호주와 함께 -</p>
+    <p class="image-description">- 퀸스타운 호수와 함께 -</p>
 </div>
 
 남섬의 다른 모든 장소도 아름답지만 퀸스타운은 정말 압도적인 아름다움을 지닌 곳 입니다. 왜 퀸스타운 퀸스타운 하는지 직접 방문해 보면 알 수 있습니다.
