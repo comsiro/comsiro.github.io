@@ -272,7 +272,7 @@
 
         img {
             width: 80%;
-            border-radius: 15px;     
+            border-radius: 15px;
         }
 
         .image-description {
@@ -283,7 +283,13 @@
         }
     }
 
-    .google-adsense{
-        width: 80%;
+    .google-adsense-top {
+        width: 100%;
+        margin-bottom: 1.5em;
+    }
+
+    .google-adsense-bottom {
+        width: 100%;
+        margin-top: 1.5em;
     }
 }
