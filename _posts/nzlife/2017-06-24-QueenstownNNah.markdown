@@ -6,7 +6,7 @@ date:   2017-06-24 04:44:12 +1200
 categories: nzlife
 ---
 
-<a href="{{ site.github.url }}/nzlife/2017/06/22/PictonNNelson.html" class="page-change">이전 글</a>
+<a href="{{ site.github.url }}/nzlife/2017/06/22/GreymouthNchristchurch.html" class="page-change">이전 글</a>
 
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
@@ -30,4 +30,4 @@ categories: nzlife
 <hr>
 남섬은 정말 여행할 곳이 많습니다. 프란츠조셉가르시아, 마운트 쿡, 테카포 등 정말 신비롭다 할 정도로 아름다운 자연이 사방에 널려 있습니다. 나중에 아이들이 어느 정도 크면 다시 한번 제대로 푹 한달간 여행해 보고 싶습니다.
 
-<a href="{{ site.github.url }}/nzlife/2017/06/22/PictonNNelson.html" class="page-change">이전 글</a>
+<a href="{{ site.github.url }}/nzlife/2017/06/22/GreymouthNchristchurch.html" class="page-change">이전 글</a>
