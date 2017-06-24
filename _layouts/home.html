@@ -2,10 +2,11 @@
 layout: default
 ---
 <div class="home">
+  <h1 class="page-heading">Posts</h1>
+
   {% if jekyll.environment == 'production' and site.google_adsense %}
   {% include google-adsense.html %}
-  {% endif %}
-  <h1 class="page-heading">Posts</h1>
+  {% endif %}  
   
   {{ content }}
 
