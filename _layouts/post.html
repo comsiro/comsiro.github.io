@@ -1,6 +1,10 @@
 --- 
 layout: default
 ---
+  {% if jekyll.environment == 'production' and site.google_adsense %}
+  {% include google-adsense.html %}
+  {% endif %}
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -10,10 +14,6 @@ layout: default
       </time>
       {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
-
-  {% if jekyll.environment == 'production' and site.google_adsense %}
-  {% include google-adsense.html %}
-  {% endif %}      
   </header>
   <div class="post-content" itemprop="articleBody">
     {{ content }}
