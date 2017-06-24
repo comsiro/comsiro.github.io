@@ -7,19 +7,23 @@ layout: default
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %} {{ page.date | date: date_format }}
-      </time>
+      </time> 
       {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
   </header>
 
+<div class="google-adsense">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Post Top Center -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9052667513298810"
+     data-ad-slot="3694154089"
+     data-ad-format="auto"></ins>
 <script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-9052667513298810",
-    enable_page_level_ads: true
-  });
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
+</div>
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
