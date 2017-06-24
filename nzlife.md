@@ -4,6 +4,10 @@ title: 뉴질랜드생활
 permalink: /nzlife/
 ---
 
+  {% if jekyll.environment == 'production' and site.google_adsense %}
+  {% include google-adsense.html %}
+  {% endif %}
+
   <ul class="post-list">
     {% for post in site.posts %}
       {% if post.categories contains "nzlife" %}
