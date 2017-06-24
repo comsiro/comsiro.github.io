@@ -7,6 +7,7 @@ categories: nzlife
 ---
 
 <a href="{{ site.github.url }}/nzlife/2017/06/22/PictonNNelson.html" class="page-change">이전 글</a>
+<a href="{{ site.github.url }}/nzlife/2017/06/24/QueenstownNNah.html" class="page-change">다음 글</a>
 
 저에게 뉴질랜드 도시에 관한 정보를 물어보시는 분이 계셔서 경험한 한도내에서 아는 한 적어 봅니다. 제 개인 의견일 뿐이고 틀린 의견일 수 있으므로 참고만 하십시오.
 <hr>
@@ -46,3 +47,4 @@ categories: nzlife
 크라이스츠처치에도 많은 수의 한인들이 거주하고 있습니다. 한인마트 여러개 존재하고요. 남섬의 수도이니 만큼 남섬에서 인구도 가장 많고 2017년 현재 인구가 뉴질랜드 도시 2위인가 3위인가 할 것으로 추정됩니다.
 
 <a href="{{ site.github.url }}/nzlife/2017/06/22/PictonNNelson.html" class="page-change">이전 글</a>
+<a href="{{ site.github.url }}/nzlife/2017/06/24/QueenstownNNah.html" class="page-change">다음 글</a>
