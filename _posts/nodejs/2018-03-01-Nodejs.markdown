@@ -1,0 +1,21 @@
+---
+layout: post
+comments: true
+title:  Nodejs - 노드제이에스
+date:   2018-03-01 18:13:00 +1300
+categories: nodejs
+---
+
+<div class="post-head">
+    <img src="{{ site.url }}/assets/images/Nodejs1.png" alt="Node.js Logo"/>
+    <p class="image-description">- Node.js 로고 -</p>
+</div>
+
+<a href="https://nodejs.org/ko/">Nodejs 공식 사이트</a>
+
+php 세계에는 composer가 있고 .Net Core에는 dotnet cli가 있고 Nodejs를 대표하는 것은 npm이죠. Javscript 세계에서 주로 사용되는 패키지 매니지먼트 툴입니다.(Yarn도 있지만)
+
+Nodejs 병렬처리 방식으로 인해 코딩이 까다롭지만(call back 함수와 promise를 통한 return값 처리, 데이터 처리 타이밍 등 등...) 다른 전문가들이 말하듯이 가벼운 다수의 요청을 처리하기에 최적화된 프래임워크입니다. 저의 허접한 월 4천원짜리 서버에 nginx와 node daemon을 동시에 띄어 놓고 CRUD API와 웹사이트를 여러개 돌려도 속도가 별로 저하되지 않습니다. 물론 제 사이트 접속자가 별로 없기 때문이기도 합니다만...
+
+Angular를 프론트에 쓰면 처음에 로딩할때만 시간이 걸리고 데이터 처리하는 속도는 체감상 정말 최고인 것 같습니다.
+물론 하드웨어 성능 향상으로 인해 최종 사용자의 체감 속도 차이가 많이 않는 최근에는 어느 랭귀지나 프래임워크든 빨리 신속하게 심각한 버그 없이 만들어서 다른 회사나 개발자가 만들기 전에 유저들이 사용하도록 하여 시장을 선점하는게 중요하겠죠.
