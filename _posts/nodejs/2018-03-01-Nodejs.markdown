@@ -7,7 +7,7 @@ categories: nodejs
 ---
 
 <div class="post-head">
-    <img src="{{ site.url }}/assets/images/Nodejs1.png" alt="Node.js Logo"/>
+    <img src="{{ site.url }}/assets/images/Nodejs2.png" alt="Node.js Logo"/>
     <p class="image-description">- Node.js 로고 -</p>
 </div>
 
