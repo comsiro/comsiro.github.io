@@ -2,6 +2,8 @@
  * Site header
  */
 .site-header {
+    margin: 0 auto;
+    width:$content-width+100px;
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: $spacing-unit * 1.865;
