@@ -1,0 +1,33 @@
+---
+layout: post
+comments: true
+title:  보안(Security)
+date:   2018-03-26 09:55:00 +1300
+categories: etc
+---
+
+개발을 하다보면 보안 문제에 반드시 부딪히게 됩니다. 어차피 사용자들은 내 정보가 세어나가는지 모르고 대부분의 회사에서는 정말 심각한 문제가 발생해 회사 비지니스에 타격을 입을때까지 보안 문제를 무시하거나 쉬쉬하는 경향이 있습니다.
+
+모두가 본인들이 사용하는 프래임워크가 안전하다고 주장합니다. 그런데 그 프래임워크는 인프라 단부터 앱단까지 모든 구성 요소들을 커버하지 않습니다. 또 시간이 흐르고 프래임워크의 업데이트가 제대로 이루어지지 않으면 기존에 그 프래임워크에 보호되던 모듈들 마저도 보안 취약점에 노출되게 됩니다.
+
+결국 보안은 아키텍처(설계자)와 회사의 경영자의 의지가 없이는 보장될 수 없습니다. 회사 리스크 관리에서 하위 항목에 있는 시스템 보안은 언제나 인기가 없기 마련이죠.
+
+보안을 깊게 몰라도 직장생활을 하는데 큰 지장은 없습니다만 그래도 용어는 알고 지나가는 것이 좋습니다. 창업하고 수익을 내기 위해 시스템을 구축한다면 최소한 보안의 개념에 대해 이해하고 있어야 합니다.
+
+아래 링크는 오픈튜토리얼에 나온 보안 강좌입니다. 관심있는 분은 참고하시기 바랍니다. 
+
+<h4>
+<a href="https://opentutorials.org/course/2811/16309"> Link : https://opentutorials.org/course/2811/16309</a></h4>
+
+1. 암호화 알고리즘과 암호화키
+2. 계층별 DATA 형태, 파일암호화 column 암호화
+3. 암호화 Key 및 Key Management System의 이해1
+4. 암호화 Key 및 Key Management System의 이해2
+5. 암호화 운영모드의 이해, XOR
+6. 키관리의 중요성
+7. 암호와 Key의 종류와 Key 구조
+8. Quantum computer가 암호화에 미치는 영향, 가용성(availiablity), 무결성(Intergrity)
+9. Security와 Securicy에서 CIA 개념의 차이점 Identification & Authentication
+10. Oauth인증, Hash, 전자서명, 공인인증서 구조
+11. PKI (Public Key Infrastructure)공개키 암호화 1
+12. PKI (Public Key Infrastructure)공개키 암호화 2
