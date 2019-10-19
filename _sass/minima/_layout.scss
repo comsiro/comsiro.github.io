@@ -271,6 +271,16 @@
         }
     }
 
+    .google-adsense-top {
+        width: 100%;
+        margin-bottom: 2em;
+    }
+
+    .google-adsense-bottom {
+        width: 100%;
+        margin-top: 2em;
+    }
+
     .post-head {
         text-align: center;
 
@@ -285,15 +295,5 @@
 
             @include relative-font-size(0.7);
         }
-    }
-
-    .google-adsense-top {
-        width: 100%;
-        margin-bottom: 2em;
-    }
-
-    .google-adsense-bottom {
-        width: 100%;
-        margin-top: 2em;
     }
 }

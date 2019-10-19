@@ -14,11 +14,11 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
-  </div>
 
-  {% if jekyll.environment == 'production' and site.google_adsense %}
-  {% include google-adsense-bottom.html %}
-  {% endif %}
+    {% if jekyll.environment == 'production' and site.google_adsense %}
+    {% include google-adsense-bottom.html %}
+    {% endif %}
+  </div>
 
   <hr>
   {{ site.text_current_post }}
