@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
@@ -7,31 +7,37 @@ layout: default
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %} {{ page.date | date: date_format }}
-      </time> 
-      {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+      </time>
+      {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span
+          itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
+    {% if jekyll.environment == 'production' and site.google_adsense %}
+    {% include google-adsense-top.html %}
+    {% endif %}
+
     {{ content }}
+
+    {% if jekyll.environment == 'production' and site.google_adsense %}
+    {% include google-adsense-bottom.html %}
+    {% endif %}
   </div>
 
   <hr>
   {{ site.text_current_post }}
 
-  {% if jekyll.environment == 'production' and site.google_adsense %}
-  {% include google-adsense-bottom.html %}
-  {% endif %}
-  
   <ul class="post-list-in-post">
     {% for post-from-list in site.posts limit:30 %}
-      {% if post-from-list.categories == page.categories  %}
+    {% if post-from-list.categories == page.categories  %}
     <li>
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
       <span class="post-meta">{{ post-from-list.date | date: date_format }} -</span>
-      <a class=".post-link-in-post" href="{{ post-from-list.url | relative_url }}">{{ post-from-list.title | escape }}</a>
+      <a class=".post-link-in-post"
+        href="{{ post-from-list.url | relative_url }}">{{ post-from-list.title | escape }}</a>
     </li>
-      {% endif %}
+    {% endif %}
     {% endfor %}
   </ul>
   <hr>
