@@ -14,14 +14,15 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
-
-    {% if jekyll.environment == 'production' and site.google_adsense %}
-    {% include google-adsense-bottom.html %}
-    {% endif %}
   </div>
 
   <hr>
   {{ site.text_current_post }}
+
+  {% if jekyll.environment == 'production' and site.google_adsense %}
+  {% include google-adsense-bottom.html %}
+  {% endif %}
+  
   <ul class="post-list-in-post">
     {% for post-from-list in site.posts limit:30 %}
       {% if post-from-list.categories == page.categories  %}
