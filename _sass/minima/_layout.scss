@@ -289,9 +289,15 @@
 
     .google-adsense-top {
         margin-bottom: 2em;
+        .ad-height{
+            max-height: 60px;
+        }
     }
 
     .google-adsense-bottom {
         margin-top: 2em;
+        .ad-height{
+            max-height: 60px;
+        }
     }
 }
