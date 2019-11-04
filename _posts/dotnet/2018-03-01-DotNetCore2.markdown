@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  .Net Core2 - 닷넷 코어2
 date:   2018-03-01 17:32:00 +1300
-categories: csharp
+categories: dotnet
 ---
 
 <div class="post-head">
