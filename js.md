@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Angular
-permalink: /angular/
+title: JS
+permalink: /js/
 ---
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.categories contains "angular" %}
+      {% if post.categories contains "js" %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
