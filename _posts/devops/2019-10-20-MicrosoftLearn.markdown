@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  무료로 공부합시다 - MS Learn
 date:   2019-10-20 11:14:00 +1300
-categories: etc
+categories: devops
 ---
 마이크로소프트에서 여러가지로 흩어져 있었던 자사 제품 강의에 대한 사이트들을 통합하여 MS Learn이라는 이름의 사이트를 만들었습니다. 물론 무료이고요. 해당 사이트를 통해 관리자, 개발자, 설계자 등 모든 과정에서 필요한 기초 지식들을 무료로 습득할 수 있습니다.
 

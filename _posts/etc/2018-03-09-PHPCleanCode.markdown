@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  PHP Clean Code
 date:   2018-03-09 11:17:00 +1300
-categories: php
+categories: etc
 ---
 
 <div class="post-head">

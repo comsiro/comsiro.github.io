@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  Anuglar로 모바일 앱 개발(NativeScript)
 date:   2018-04-19 08:26:00 +1300
-categories: angular
+categories: js
 ---
 
 <div class="post-head">

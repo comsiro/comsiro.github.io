@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  Javascript Clean Code(영문)
 date:   2018-03-09 11:20:00 +1300
-categories: angular
+categories: js
 ---
 
 <div class="post-head">

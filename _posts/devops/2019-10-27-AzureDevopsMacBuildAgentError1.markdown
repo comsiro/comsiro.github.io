@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  Azure Devops 맥에서 빌드 에이전트 에러
 date:  2019-10-27 15:16:00 +1300
-categories: etc
+categories: devops
 ---
 
 애저 데브옵스에서 자마린(Xamarin) IOS 프로젝트를 빌드하기 위해서는 OSX가 동작하는 클라우드 호스트를 이용하거나 직접 Mac에 Build Agent를 설치해야 합니다.

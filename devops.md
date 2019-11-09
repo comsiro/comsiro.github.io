@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Powershell
-permalink: /powershell/
+title: Devops
+permalink: /devops/
 ---
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.categories contains "powershell" %}
+      {% if post.categories contains "devops" %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>

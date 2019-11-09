@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  Nodejs - 노드제이에스
 date:   2018-03-01 18:13:00 +1300
-categories: nodejs
+categories: js
 ---
 
 <div class="post-head">

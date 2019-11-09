@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  현재 Angular 안정화된 버전 5.2.7
 date:   2018-03-01 06:10:00 +1300
-categories: angular
+categories: js
 ---
 
 <div class="post-head">

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  Angular5 앱에 차트를 넣자. - Chart.js
 date:   2018-03-03 01:08:00 +1300
-categories: angular
+categories: js
 ---
 
 <div class="post-head">

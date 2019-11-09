@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  PHP The Right Way
 date:   2018-03-01 18:03:00 +1300
-categories: php
+categories: etc
 ---
 
 <div class="post-head">

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  Powershell 7 Preview 3
 date:  2019-10-27 22:00:00 +1300
-categories: powershell
+categories: devops
 ---
 윈도우 운영체제를 관리하거나 애저를 원격에서 관리하는데 이제 Powershell은 필수가 되었는데요. 객체지향까지 지원하는 파워셸이 앞으로 더 발전하게 될지 기대가 됩니다.
 

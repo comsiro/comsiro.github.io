@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  Nodejs version management- 노드제이에스 버전 관리
 date:   2019-10-27 15:38:00 +1300
-categories: nodejs
+categories: js
 ---
 
 <div class="post-head">

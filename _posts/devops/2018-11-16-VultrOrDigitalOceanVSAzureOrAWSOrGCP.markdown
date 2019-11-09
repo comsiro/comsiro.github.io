@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  Vultr나 DigitalOcean이 Azure, AWS나 GCP보다 좋은 이유
 date:   2018-11-16 21:45:00 +1300
-categories: etc
+categories: devops
 ---
 학생때 혼자 웹 어플리케이션을 개발하고 서비스를 해보면 가장 부담되는 것은 역시 클라우드 가상 서버 유지 비용입니다. 
 

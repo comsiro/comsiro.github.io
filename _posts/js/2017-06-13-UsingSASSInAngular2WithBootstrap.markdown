@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  Angular CLI에서 SASS와 Bootstrap 4 사용
 date:   2017-06-13 05:26:00 +1300
-categories: angular
+categories: js
 ---
 
 오늘은 Angular2에서 SASS를 사용하는 방법을 간단히 정리해 보겠습니다.
